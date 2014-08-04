@@ -1,0 +1,41 @@
+
+"%.0f (bytes/s)" = "%.0f (bytes/秒)";
+"%.0f (KB/s)" = "%.0f (KB/秒)";
+"%.2f (MB/s)" = "%.2f (MB/秒)";
+
+"Drag movie URL or link here." = "ここに動画のURLやリンクをドロップします";
+"Loading thumbnail information..." = "サムネイル情報を読み込んでいます...";
+"Failed to load thumbnail info." = "サムネイル情報の読み込みに失敗しました";
+"Not found or Invalid ID." = "動画は見つかりませんでした";
+"Loaded Thumbnail information." = "サムネイル情報を読み込みました";
+
+"Converting movie..." = "動画を変換しています";
+"Finish." = "完了しました";
+"Convert file extension is empty. Please set a extension." = "指定された変換設定の拡張子がありません。拡張子を入力してください。";
+"Failed to parse duration. Converting movie..." = "残り時間の取得に失敗しました。動画を変換しています...";
+"Failed to convert." = "動画の変換に失敗しました";
+
+"Loading video..." = "動画を読み込んでいます";
+"Failed to load video." = "動画の読み込みに失敗しました";
+"Loaded video." = "動画を読み込みました";
+"Failed to write data." = "動画の書き込みに失敗しました";
+"Failed to get flv information from nicovideo API." = "ニコニコ動画から動画の情報を取得するのに失敗しました";
+"You are logout." = "ログアウト状態です";
+"Passing invalid URL or deleted URL." = "無効な動画のURL、または消去された動画のURLを渡しました。";
+
+"Loading web page..." = "ウェブページを読み込んでいます...";
+"Loading movie information..." = "動画の情報を読み込んでいます...";
+"No movie found." = "動画はありませんでした";
+"Failed to load web page." = "ウェブページの読み込みに失敗しました";
+"Loading mylist..." = "マイリストを読み込んでいます...";
+"Failed to load mylist." = "マイリストの読み込みに失敗しました";
+"Loaded movie informations." = "動画情報を読み込みました";
+
+"Failed to move file from temporary directory." = "一時ディレクトリからファイルを移動するのに失敗しました";
+"Moving movie file from temporary directory." = "一時ディレクトリからファイルを移動しています...";
+"Cancelled." = "キャンセルされました";
+"others..." = "その他...";
+
+"%.0f seconds remaining" = "残り %.0f 秒";
+"%.0f minutes remaining" = "残り %.0f 分";
+"%.0f hours remaining" = "残り %.0f 時間";
